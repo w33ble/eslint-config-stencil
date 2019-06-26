@@ -1,6 +1,6 @@
 {
   "name": "@w33ble/eslint-config-stencil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint config for stencil component projects",
   "main": "index.js",
   "scripts": {
